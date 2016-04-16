@@ -9,5 +9,9 @@ int main(){
   if(numero % 2 == 0)
     printf("O %d é par!", numero);
 
-}
+    
+    return 0;
+}    
+    
+
 
